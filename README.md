@@ -42,6 +42,8 @@
 
 <strong>3- Actualización de la Interfaz:</strong> La lista de nombres y el resultado del sorteo se actualizan dinámicamente en la pantalla.</p>
 
+
+
 <p>Este programa es fácil de usar y proporciona una experiencia divertida e interactiva para los usuarios.</p>
 
 
