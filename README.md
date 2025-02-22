@@ -26,7 +26,7 @@
 
 <h1>Tecnologías Utilizadas:</h1>
 
-<P><strong>-HTML:</strong>strong> Para la estructura de la página y los elementos de entrada y botones.
+<P><strong>-HTML:</strong> Para la estructura de la página y los elementos de entrada y botones.
 
 <strong>-CSS:</strong> Para el diseño y estilo visual de la aplicación.
 
@@ -34,7 +34,7 @@
 
 <h1>Pasos del Programa:</h1>
 
-<p><strong>1-</strong>strong> Ingreso de Nombres: Los usuarios ingresan los nombres y hacen clic en "Agregar". Los nombres se almacenan en un array y se muestran en una lista.
+<p><strong>1-</strong>Ingreso de Nombres: Los usuarios ingresan los nombres y hacen clic en "Agregar". Los nombres se almacenan en un array y se muestran en una lista.
 
 <strong>2- Sorteo Aleatorio:</strong> Al hacer clic en "Sortear", el programa selecciona un nombre al azar del array y lo muestra como el "Amigo Secreto".
 
