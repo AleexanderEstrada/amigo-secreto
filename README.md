@@ -1,5 +1,7 @@
 <h1>Desafio amigo-secreto</h1>
 
+![imagen de portada](https://github.com/AleexanderEstrada/amigo-secreto/blob/main/Amigo%20secreto.png)
+
 <h2>Descripcion del programa</h2>
 
 <p>El proyecto <strong>"Amigo Secreto"</strong> es una aplicación interactiva desarrollada en JavaScript que permite a los usuarios ingresar los nombres de varios amigos y, al hacer clic en un botón de sorteo, selecciona aleatoriamente uno de los nombres ingresados y lo cataloga como el "amigo secreto". Este programa es ideal para organizar juegos de amigo secreto en reuniones, eventos o simplemente para divertirse entre amigos.</p>
