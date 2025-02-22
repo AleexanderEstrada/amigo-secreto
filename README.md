@@ -34,7 +34,7 @@
 
 <h1>Pasos del Programa:</h1>
 
-<p><strong>1-</strong>Ingreso de Nombres: Los usuarios ingresan los nombres y hacen clic en "Agregar". Los nombres se almacenan en un array y se muestran en una lista.
+<p><strong>1- Ingreso de Nombres:</strong>Los usuarios ingresan los nombres y hacen clic en "Agregar". Los nombres se almacenan en un array y se muestran en una lista.
 
 <strong>2- Sorteo Aleatorio:</strong> Al hacer clic en "Sortear", el programa selecciona un nombre al azar del array y lo muestra como el "Amigo Secreto".
 
